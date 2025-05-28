@@ -125,7 +125,7 @@ svg {
 }
 
 #gallerySection {
-  background-color: #F5F5F6;
+  background-color: #FFF8EB;
   padding-top: 20%;
 }
 
@@ -133,7 +133,7 @@ svg {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-gap: 5px;
-  background-color: #F5F5F6;
+  background-color: #FFF8EB;
   /* (A2) OPTIONAL WIDTH RESTRICT */
   max-width: 1000px;
   margin: 0 auto;
@@ -232,7 +232,7 @@ svg {
 }
 
 .countdownTimeInfo {
-  color: #FF5C81;
+  color: #D9AC57;
   font-weight: 600;
 }
 
@@ -274,7 +274,7 @@ svg {
 
 #locationSection {
   margin-top: 3%;
-  background-color: #F5F5F6;
+  background-color: #FFF8EB;
   height: 265px;
 }
 
@@ -339,7 +339,7 @@ main {
 }
 
 .accordion {
-  background-color: #F5F5F6;
+  background-color: #FCF8F0;
   color: black;
   cursor: pointer;
   padding: 0.8rem;
@@ -424,7 +424,7 @@ main {
 }
 
 #MapIconDiv {
-  color: #ffffff;
+  color: #000;
   font-size: 13px;
   text-align: center;
   background-color: white;
@@ -436,7 +436,7 @@ main {
 }
 
 #kakaoMapButton {
-  background-color: #8B8B8B;
+  background-color: #E9DDC7;
   padding: 10px;
   text-align: center;
   width: auto;
